@@ -3,7 +3,7 @@
 	<ol>
 		<li>Bairros</li>
 		<li>Cidades</li>
-		<li>EndereÃ§os</li>
+		<li>Endereços</li>
 		<li>Clintes</li>
 		<li>Produtos</li>
 	</ol>

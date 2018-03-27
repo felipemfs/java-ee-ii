@@ -3,7 +3,7 @@ try {
 	if(acesso == null){
 		acesso = "0";
 		%>
-			<jsp:forward page="index.jsp" /> 
+			<jsp:forward page="login.jsp" /> 
 		<%
 	}
 }catch(Exception e){

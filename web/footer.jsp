@@ -1,7 +1,7 @@
 
             </div>
                 <footer>
-			<p>RodapÃ© do Curso de Jsp</p>
+			<p>Rodapé do Curso de Jsp</p>
 		</footer>
 	</div>
 </body>
